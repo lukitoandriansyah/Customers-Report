@@ -1,0 +1,3 @@
+Melihat performa transaksi termasuk penjualan dan pendapatan serta melihat performa pelanggan yang datang merupakan salah satu cara dalam suatu bisnis untuk membantu dalam pengambilan keputusan baik dalam hal pengembangan produk bisnis itu sendiri ataupun pengembangan kinerja secara internal (Andry, 2018).
+
+Proyek ini dilakukan untuk menelusuri performa transaksi yang terjadi di salah satu retail selama 2 quartal pertama  pada 2004. Data diperoleh dari DQ Lab yang kemudian dilakukan sedikit modifikasi dalam Microsoft Excel 2007. Data kemudian disimpan dan diolah dalam data warehouse di MySQL Workbench 8.0.
